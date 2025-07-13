@@ -1,1 +1,2 @@
 i am content of line 1 file1
+i am content of line 2 file1
