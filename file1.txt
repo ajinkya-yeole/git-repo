@@ -3,3 +3,4 @@ i am content of line 2 file1
 add this content in master brach from dev bracnh
 add this content in master brach from dev bracnh
 add this content in master brach from dev bracnh
+add this content in master brach from dev branch
